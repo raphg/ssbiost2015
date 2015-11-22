@@ -1,5 +1,5 @@
 ---
-title: 'Fifth Seattle Symposium in Biostatistics: Promises and pitfalls'
+title: 'Fifth Seattle Symposium in Biostatistics: Promises and pitfalls of omics experiments'
 author: "Raphael Gottardo"
 date: "Friday, November 6"
 output:
@@ -1193,7 +1193,7 @@ What do you think?
 
 ## Life cycle of scientific discovery with omics technologies
 
-<img src="./figures/experiment_overview.png" width="600">
+<img src="./figures/experiment_overview.png" width="560">
 
 ## Pitfalls to avoid: summary
 

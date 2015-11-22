@@ -1,4 +1,4 @@
-# Fifth Seattle Symposium in Biostatistics: Promises and pitfalls
+# Fifth Seattle Symposium in Biostatistics: Promises and pitfalls of omics experiments
 Raphael Gottardo  
 Friday, November 6  
 
@@ -1699,7 +1699,7 @@ What do you think?
 
 ## Life cycle of scientific discovery with omics technologies
 
-<img src="./figures/experiment_overview.png" width="600">
+<img src="./figures/experiment_overview.png" width="560">
 
 ## Pitfalls to avoid: summary
 
@@ -1723,11 +1723,6 @@ What do you think?
 - Contribute significantly to the **reproducibility** and **replication** of an experiment or study
 
 - Failing to follow the principles of good experimental design, researchers set themselves up for failure as such experiments often lead to “fishing expeditions” where data are tortured through a myriad of analysis pipelines and statistical tests until positive results (i.e. significant p-values) are found that are then reported in a manuscript. The tortuous data analysis procedures leading to those results are not described, resulting in an irreproducible and non-replicable study.
-
-
-# A strategy for success
-
-![Life cycle](./figures/Figure1_book_chapter.png)
 
 ## Tools for reproducible research
 
